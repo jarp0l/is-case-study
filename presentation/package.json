@@ -1,0 +1,20 @@
+{
+  "name": "khalti-fintech-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "slides.md",
+  "scripts": {
+    "rlmd": "reveal-md slides.md",
+    "rlmd:dev": "reveal-md slides.md --watch",
+    "export:site": "reveal-md slides.md --static _site --static-dirs=img",
+    "lt": "lt --port 1948"
+  },
+  "author": "Prajwol, Sumit, Suvash",
+  "license": "ISC",
+  "dependencies": {
+    "reveal-md": "^6.0.1"
+  },
+  "devDependencies": {
+    "localtunnel": "^2.0.2"
+  }
+}
