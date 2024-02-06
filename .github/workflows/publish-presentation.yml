@@ -1,0 +1,50 @@
+name: Publish presentation to gh-pages
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "presentation/*"
+  workflow_dispatch:
+
+jobs:
+  publish-presentation:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install pnpm
+        uses: pnpm/action-setup@v2
+        with:
+          version: 8
+          run_install: false
+          package_json_file: ./presentation/package.json
+
+      - name: Get pnpm store directory
+        shell: bash
+        run: |
+          pwd
+          echo "STORE_PATH=$(pnpm store path --silent)" >> $GITHUB_ENV
+
+      - name: Install dependencies
+        run: pnpm install
+        working-directory: ./presentation
+
+      - name: Export site
+        run: pnpm export:site
+        working-directory: ./presentation
+
+      - name: Deploy to gh-pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./presentation/_site
