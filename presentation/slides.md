@@ -270,6 +270,83 @@ Some resources (not limited to LinkedIn):
 
 - Forbes India (YouTube) - [PART-TIME JOB SCAM: Beware of growing WhatsApp and Telegram fraud](https://www.youtube.com/watch?v=9P8YxsDwX_c)
 
+---
+
+### Case Study: Facebook
+----
+
+### Collection of User Data
+ - Social media platforms often collect and store large amounts of user data.
+ - This data can be used for targeted advertising and other purposes.
+ - As per the privacy policies of company, the data can be shared with third parties.
+ - The user data should be anonymized and aggregated to protect the privacy of the users.
+
+----
+
+#### What does Facebook know about you?
+ Facebook collects a wide range of data about its users.
+   - Personal information
+    - Location data
+    - Browsing history
+    - Device information
+    - Contact information
+    - Messages and calls
+
+----
+
+#### Your data may already be compromised
+ - Social media platforms are not immune to bugs and vulnerabilities, which can be exploited.
+ - Users should be cautious about the apps they use and keep their devices up to date with the latest security patches.
+ - Reporting any suspicious activity to the platform's security team can help prevent further exploitation of vulnerabilities.
+
+----
+
+#### Social Media Platforms may share your data with third parties
+ - Social media platforms often collect and store large amounts of user data, which can be used for targeted advertising and other purposes.
+ - Users should be aware of the privacy policies of the platforms they use and take steps to limit the amount of personal information they share.
+ - Privacy settings should be reviewed regularly to ensure that they are set to the user's preferences.
+
+----
+### Cambridge Analytica Scandal
+- In 2018, it was revealed that the political consulting firm Cambridge Analytica had harvested the personal data of millions of Facebook users without their consent.
+- The data was used to create targeted political advertising during the 2016 US presidential election.
+- The scandal raised concerns about the privacy and security of user data on social media platforms.
+
+----
+
+### Fake Profiles
+ - Social media platforms are often used to create fake profiles, which can be used for various purposes, including identity theft, fraud, and harassment.
+ - Users should be cautious about the information they share on social media and take steps to protect their accounts.
+ - Reporting fake profiles to the platform's security team can help prevent further exploitation of vulnerabilities.
+---
+### Case Study: Twitter
+----
+### A place for realtime facts
+- Twitter is a platform where people can share their thoughts and opinions in real time.
+- It is also a place where misinformation and disinformation can spread quickly.
+- Users should be cautious about the information they share and verify the accuracy of the information they receive.
+
+----
+### Verify the Source
+- Ensure that data is coming from a reliable source.
+- Check the credibility of the source before sharing the information.
+- Misinformation can spread quickly on Twitter, so it is important to verify the accuracy of the information before sharing it.
+
+----
+
+### Fake Posts from a Verified Account
+- In 2020, the Twitter accounts of several high-profile individuals and organizations were hacked, and fake posts were made from their accounts.
+- The posts were used to promote a cryptocurrency scam, which raised concerns about the security of verified accounts on Twitter.
+- Users should be cautious about the information they receive from verified accounts and take steps to verify the authenticity of the posts.
+
+----
+![Twitter](img/fakeprofile.png)
+----
+
+### How can we mitigate the risks?
+- Users should follow company blogs and news to stay updated about the latest security features and updates.
+- Users should be cautious about the information they share on social media and take steps to protect their accounts.
+- Reporting any suspicious activity to the platform's security team can help prevent further exploitation of vulnerabilities.
 
 ---
 
