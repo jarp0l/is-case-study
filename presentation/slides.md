@@ -18,7 +18,9 @@ revealOptions:
 <hr>
 
 - Prajwol Pradhan (076BEI023)
-- 
+- Krishbin Paudel (076BEI018)
+- Asmin Silwal (076BEI040)
+- Bibek Pariyar (076BEI012)
 
 ---
 
