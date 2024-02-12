@@ -1,0 +1,51 @@
+:root {
+  /*Color palette*/
+  --snow: #fbf5f3ff; /*letter*/
+  --fulvous: #e28413ff; /*title background & link highlight*/
+  --oxford-blue: #000022ff; /*background*/
+  --celadon-blue: #407899ff; /*blue contrast */
+  --venetian-red: #bf211eff; /*red contrast*/
+
+  /* General background color */
+  --bkg_pres_color: var(--oxford-blue);
+
+  /* Title background color */
+  --bkg_title: var(--fulvous);
+
+  /* Color for all the letters in the presentation */
+  --letter_color: var(--snow);
+
+  /* Color for link highlight */
+  --highlight: var(--fulvous);
+
+  /* Colors that contrasts with the background,
+       used to give emphasis to a text. */
+  --bkg_contrastR: var(--venetian-red);
+  --bkg_contrastB: var(--celadon-blue);
+
+  --r-main-font-size: 36px;
+}
+
+.presentation_title {
+  grid-area: header;
+  align-self: center;
+  border-radius: 5px;
+  background-color: var(--bkg_title);
+  padding-top: 0.2em;
+  padding-bottom: 0.2em;
+}
+
+/* Break the slide in three parts */
+.with_body_footer {
+  min-height: 100% !important;
+  display: grid !important;
+  grid-template-rows: 13.5% auto 10% !important;
+  grid-template-areas:
+    "header"
+    "main"
+    "footer";
+}
+
+li {
+  margin: 4% 0;
+}

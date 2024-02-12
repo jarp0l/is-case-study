@@ -1,15 +1,15 @@
 {
-  "name": "khalti-fintech-project",
+  "name": "is-case-study",
   "version": "1.0.0",
   "description": "",
   "main": "slides.md",
   "scripts": {
     "rlmd": "reveal-md slides.md",
     "rlmd:dev": "reveal-md slides.md --watch",
-    "export:site": "reveal-md slides.md --static _site --static-dirs=img",
+    "export:site": "reveal-md slides.md --static _site --static-dirs img --css css/main.css",
     "lt": "lt --port 1948"
   },
-  "author": "Prajwol, Sumit, Suvash",
+  "author": "Prajwol, et all",
   "license": "ISC",
   "dependencies": {
     "reveal-md": "^6.0.1"
