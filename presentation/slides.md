@@ -1,37 +1,41 @@
 ---
-title: THE CYBER SECURITY RISKS ON SOCIAL MEDIA
+title: THE CYBERSECURITY RISKS ON SOCIAL MEDIA
 theme: white
 revealOptions:
     transition: slide
 ---
 
 <!-- .slide: data-auto-animate -->
-#### THE CYBER SECURITY RISKS ON SOCIAL MEDIA
+### THE CYBERSECURITY RISKS ON SOCIAL MEDIA
 
 ----
 
 <!-- .slide: data-auto-animate -->
-<div class="presentation_title">
-    <h4> THE CYBER SECURITY RISKS ON SOCIAL MEDIA </h4>
-</div>
+### THE CYBERSECURITY RISKS ON SOCIAL MEDIA
 
 <hr>
 
-- Prajwol Pradhan (076BEI023)
-- 
+<ul>
+<li style="color: #c0c0c0;"> Bibek Pariyar (076BEI012) </li>
+<li style="color: #c0c0c0;"> Krishbin Paudel (076BEI018) </li>
+<li> Lincoln Basnet (076BEI020) </li>
+<li> Prajwol Pradhan (076BEI023) </li>
+<li> Samir Chapagain (076BEI0) </li>
+<li> Asmin Silwal (076BEI040) </li>
+</ul>
 
 ---
 
-### Introduction
+## Introduction
 
 
 ---
 
-### Case study: LinkedIn
+## Case study: LinkedIn
 
 ----
 
-#### Recruitment scam/fraud
+### Recruitment scam/fraud
 
 ----
 
@@ -70,7 +74,7 @@ Comments:
 
 ----
 
-Let's check the forms
+#### Let's check the forms
 
 ----
 
@@ -104,7 +108,7 @@ What was your "Last Drawn Salary"?
 ----
 
 <!-- .slide: data-auto-animate -->
-#### Motives
+### Motives
 
 <!-- ---- -->
 
@@ -169,7 +173,7 @@ That is:
 
 ----
 
-#### Tips to avoid being scammed
+### Tips to avoid being scammed
 
 ----
 
@@ -270,9 +274,15 @@ Some resources (not limited to LinkedIn):
 
 - Forbes India (YouTube) - [PART-TIME JOB SCAM: Beware of growing WhatsApp and Telegram fraud](https://www.youtube.com/watch?v=9P8YxsDwX_c)
 
+---
+
+## Case Study: Facebook
+
+----
+
+### it's a test
+
 
 ---
 
 Thank You!
-
-And comment <span style="color:#0a66c2">#interested</span>.
