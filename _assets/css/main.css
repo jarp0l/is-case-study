@@ -23,7 +23,7 @@
   --bkg_contrastR: var(--venetian-red);
   --bkg_contrastB: var(--celadon-blue);
 
-  --r-main-font-size: 36px;
+  --r-main-font-size: 34px;
 }
 
 .presentation_title {
@@ -47,5 +47,6 @@
 }
 
 li {
-  margin: 4% 0;
+  margin: 3% 0;
+  font-size: var(--r-main-font-size);
 }
