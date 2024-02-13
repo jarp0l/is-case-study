@@ -173,6 +173,15 @@ That is:
 
 - "I want to harvest as much information about you as I can, so that I can scam you better"
 
+---
+
+**Let's look at the other side: WhatsApp**
+
+----
+
+
+
+
 
 ---
 
@@ -279,15 +288,15 @@ Some resources (not limited to LinkedIn):
 
 ----
 
-I've put these resources on GitHub Gist:
+I've put together these resources here:
 
 <!-- .slide: data-auto-animate -->
-<img src="img/qr-code-resources.png" height="400"/>
+<img src="img/qr-code-lol.png" height="400"/>
 
 ----
 
 <!-- .slide: data-auto-animate -->
-<img src="img/qr-code-resources.png" height="400"/>
+<img src="img/qr-code-lol.png" height="400"/>
 
 <h2 style="color:red"> BUT WAIT! 🤚🚦 </h2>
 ----
@@ -298,6 +307,14 @@ I've put these resources on GitHub Gist:
     <img class="fragment" src="img/qr-2.png" height="450"/>
     <img class="fragment" src="img/qr-5.png" height="600"/>
 </div>
+
+----
+
+Safe link to resources on GitHub Gist:
+
+<img src="img/qr-code-resources.png" height="400"/>
+
+This one is safe 😉
 
 ---
 
