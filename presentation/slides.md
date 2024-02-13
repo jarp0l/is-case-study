@@ -321,10 +321,13 @@ Safe link to resources on GitHub Gist:
 This one is safe 😉
 
 ---
-### Case Study:Facebook
+
+### Case Study: Facebook
 
 ----
-#### Major concern of people about using facebook
+
+#### Major concern of people about using Facebook
+
 ----
 <p>
 <img src="img/facebook_user_concern.png" height="300">
@@ -334,16 +337,20 @@ This one is safe 😉
 </p>
 
 ----
+
 #### Different types of Cyberattacks targeting facebook
 
-- Intellectual Property Theft.
-- Identity Theft.
+- Intellectual Property Theft
+- Identity Theft
 - Attack Targeting Friend's List
 - Social Engineering on Facebook
+
 ----
 
-#### Social Engineering Attack types on Facebook.
+#### Social Engineering Attack types on Facebook
+
 ----
+
 #### Pretexting
 Pretexting tactics usually involve a scammer playing a convincing character that’s used to develop a fake, but plausible, story that the victim can relate to.
 
@@ -351,27 +358,20 @@ Pretexting tactics usually involve a scammer playing a convincing character that
 
 
 ----
-##### 
-
 
 #### Phishing Attacks And Deceptive Link
 Phishing is a common cyberattack where attackers use deceptive tactics to trick individuals into revealing sensitive information such as usernames, passwords, credit card numbers, or other personal data. These attacks typically involve impersonating legitimate entities, such as banks, social media platforms, or government agencies, to gain the trust of unsuspecting victims.
 
 ----
-### Sample 1:
+
+#### Sample 1:
 <img src="img/phishing.png" height="300"/>
 
 ----
-### Impact Of Social Engineering attack on Facebook:
+
+#### Impact Of Social Engineering attack on Facebook:
 
 <img src="img/social_impact.png" height="300">
-
-----
-
-
-Thank You!
-
-And comment <span style="color:#0a66c2">#interested</span>.
 
 ---
 
