@@ -1,2 +1,7 @@
 node_modules/
 _site/
+
+
+# Some images to ignore
+wa-1.png
+wa-2.png

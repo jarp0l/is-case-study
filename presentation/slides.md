@@ -50,7 +50,9 @@ My search term: "ey hiring"
 
 https://www.linkedin.com/search/results/content/?keywords=ey+hiring
 
-Company on spotlight: EY (a company which provides consulting, assurance, tax and transaction services)
+Company/s on spotlight:
+- EY (a company which provides consulting, assurance, tax and transaction services)
+- UXCam
 
 ----
 
@@ -179,9 +181,11 @@ That is:
 
 ----
 
+<img src="img/wa-1.png" height="600"/>
 
+----
 
-
+<img src="img/wa-2.png" height="600"/>
 
 ---
 
